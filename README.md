@@ -1,26 +1,24 @@
 # Práctica nivel medio de Python  
 
-### Como participar en la práctica
+## Cómo participar
 
-- Haga un fork a su cuenta GitHub
-- Cree una nueva rama con el nombre med-<nombre>
-- Para subir cambios al repositorio de la práctica solicite una PR(1)
+- Haz un `fork` del proyecto [medio](https://github.com/aprendedeceropython/medio) a tu repositorio personal.
+- Crea una nueva rama o `branch` con el nombre `med-<nombre>`  
+- Solicita un `pull request` de tu código al proyecto principal. 
 
-La práctica para el nivel medio consiste en lo siguiente:
+## La práctica de nivel medio consiste en lo siguiente
 
-## Condiciones  
+### Condiciones:  
 
-- Elaborar una aplicación que calcule el bioritmo y de el resultado por consola (Linux/Windows/Mac)
-- No se requiere que haga la grafica solo que arroje los valores dia por dia con saltos de linea por dia con cada uno de los valores.
+- Elaborar una aplicación que calcule el biorritmo y que imprima el resultado por consola (Linux/Windows/Mac)
+- No es necesario elaborar una gráfica, sólo se requiere mostrar los valores ordenados día por día con saltos de línea.
 
-## Obligatorio
+### Obligatorio:
 
-- Todo el código debe estar en Python
-- La aplicacion debe funcionar en consola
+- Sólo se acepta código de Python.
+- La aplicación debe funcionar en consola.
 
-## Notas finales
+### Notas finales:
 
-- Cada participante debe trabajar independeiente.
-- El nombre de la rama puede ser un seudonimo o el usuario de la cuenta de GitHub.
-
-(1) Pull Request
+- Cada participante debe trabajar de forma independiente.
+- El nombre de la rama o `branch` puede ser un seudónimo o el mismo nombre de usuario de GitHub.
